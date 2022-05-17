@@ -43,7 +43,7 @@ try {
 ```
 ## Authors
 
-* **Chogis Cho**
-* [Romell Domínguez](https://github.com/romellfudi/VoIpUSSD/) - *VoIpUSSD*
+* Chogis Cho
 * [Ramy Mokako](https://github.com/rmxakalogistik/cordova-plugin-VoIpUSSD) - *VoIpUSSD cordova plugin*
+* [Romell Domínguez](https://github.com/romellfudi/VoIpUSSD/) - *VoIpUSSD*
 
